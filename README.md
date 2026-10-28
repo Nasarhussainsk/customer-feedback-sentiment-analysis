@@ -118,7 +118,3 @@ The review dataset and generated CSVs are excluded from Git because they are lar
 - Sentiment models can misread sarcasm, domain-specific wording, and mixed opinions.
 - The API loads model files at startup, so training must be completed before starting it.
 - This is an educational project and should not be treated as a production moderation or decision system without further validation and safeguards.
-
-## License
-
-No license has been added yet. Unless a license is included, standard copyright restrictions apply. Add a license only after deciding how you want others to use the project.
